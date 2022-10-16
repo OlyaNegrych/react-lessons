@@ -2,7 +2,7 @@
   "name": "react-lessons",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ArtemHryn.github.io/react-styles/",
+  "homepage": "https://OlyaNegrych.github.io/react-styles/",
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
